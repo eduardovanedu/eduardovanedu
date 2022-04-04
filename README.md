@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eduardovanedu
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Mentes milionárias
+- 💞️ I’m looking to collaborate with development project web
+- 📫 How to reach me to end page
 
 ## Oiii eu sou a Eduardo Henrique, desenvolvedor web!
 <div align="center">
